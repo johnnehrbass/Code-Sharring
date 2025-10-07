@@ -1,19 +1,19 @@
 # Code-Sharring
 Place to share codes
 
-##Code:christmas.py
+## Code:christmas.py
 
-###Purpose: To help facilitate a christ gift exchange where the intended seed it the year desired
+### Purpose: To help facilitate a christ gift exchange where the intended seed it the year desired
 
-###Setup: Edit the python dictionary veriable people to contain the names desired to be included in the gift exchange
+### Setup: Edit the python dictionary veriable people to contain the names desired to be included in the gift exchange
 
-###syntax to run code:
+### syntax to run code:
 *python3 christmas.py yearDesired*
 
-###example ro tun code:
+### example ro tun code:
 *python3 python3.py 2025*
 
-###output of above example:
+### output of above example:
 GMa gets a gift for Roberta
 Dad gets a gift for Jackie
 Mom gets a gift for Dad
