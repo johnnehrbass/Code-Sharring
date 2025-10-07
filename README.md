@@ -22,12 +22,12 @@ Edit the python dictionary veriable ***people*** to contain names to be included
 
 ### output of above example:
 
-GMa gets a gift for Roberta
-Dad gets a gift for Jackie
-Mom gets a gift for Dad
-Sammie gets a gift for Mom
-Jackie gets a gift for Sammie
-Stephen gets a gift for GMa
-Roberta gets a gift for Trevor
-Joey gets a gift for Stephen
-Trevor gets a gift for Joey
+GMa gets a gift for Roberta<br>
+Dad gets a gift for Jackie<br>
+Mom gets a gift for Dad<br>
+Sammie gets a gift for Mom<br>
+Jackie gets a gift for Sammie<br>
+Stephen gets a gift for GMa<br>
+Roberta gets a gift for Trevor<br>
+Joey gets a gift for Stephen<br>
+Trevor gets a gift for Joey<br>
